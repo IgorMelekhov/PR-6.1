@@ -1,0 +1,34 @@
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\bin\Debug\PR-6.1.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\bin\Debug\PR-6.1.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\bin\Debug\PR-6.1.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR-6.1.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR_6._1.Form1.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR_6._1.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR-6.1.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR-6.1.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR-6.1.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR-6.1.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-6.1\PR-6.1\obj\Debug\PR_6._1.Form2.resources
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\bin\Debug\PR-6.1.exe.config
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\bin\Debug\PR-6.1.exe
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\bin\Debug\PR-6.1.pdb
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR-6.1.csproj.AssemblyReference.cache
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR_6._1.Form1.resources
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR_6._1.Form2.resources
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR_6._1.Properties.Resources.resources
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR-6.1.csproj.GenerateResource.cache
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR-6.1.csproj.CoreCompileInputs.cache
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR-6.1.exe
+C:\Работа\PR-6.1\PR-6.1\PR-6.1\obj\Debug\PR-6.1.pdb
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR-6.1.csproj.AssemblyReference.cache
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR_6._1.Form1.resources
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR_6._1.Form2.resources
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR_6._1.Form3.resources
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR-6.1.csproj.GenerateResource.cache
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR-6.1.exe
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR-6.1.pdb
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\bin\Debug\PR-6.1.exe.config
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\bin\Debug\PR-6.1.exe
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\bin\Debug\PR-6.1.pdb
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR_6._1.Properties.Resources.resources
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\6.1\PR-6.1\obj\Debug\PR-6.1.csproj.CoreCompileInputs.cache
